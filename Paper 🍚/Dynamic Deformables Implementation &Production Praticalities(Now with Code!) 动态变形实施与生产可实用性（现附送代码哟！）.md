@@ -17,3 +17,4 @@
   -
 #### **10**.Thin Shell Forces ***薄壳力***
   -
+#### **11**.Implicit Integrati Methods ***隐式 积分 方法***

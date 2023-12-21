@@ -13,3 +13,7 @@
   - 
 #### **8**.A Better Way for Anisotropic Solids ***各向异性 固体 的更优形式***
   - 
+#### **9**.Tips for Computing &Debugging Force Derivatives ***计算 &调试 力的导数***
+  -
+#### **10**.Thin Shell Forces ***薄壳力***
+  -

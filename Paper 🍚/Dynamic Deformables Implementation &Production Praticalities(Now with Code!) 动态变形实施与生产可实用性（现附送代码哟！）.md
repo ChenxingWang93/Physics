@@ -18,5 +18,5 @@
 #### **10**.Thin Shell Forces ***薄壳力***
   -
 #### **11**.Implicit Integrati Methods ***隐式 积分 方法***
-
+  - 
 #### **12**.Constrained Backward- Euler ***带约束的 向后 🔄欧拉***

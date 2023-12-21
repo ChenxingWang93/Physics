@@ -3,6 +3,12 @@
   - Do I Need to Read This Chapter?
   - What Kind of Squashing Are We Talking About?
   - How Squashed Am I?
+    - Measuring The Wrong Way
+    - Removing the Translation(Easy)
+    - Deformation Gradient: Really Important
+    - Removing the Rotation(Not So Easy)
+  - Force Computation: How Much Should I Push Back?
+    - 
 #### **3**.Computing Forces the Tensor Way ***以 张量形式 计算 力***
   - 
 #### **4**.Computing Forces Gradients the Tensor Way ***以 张量形式 计算 力梯度***

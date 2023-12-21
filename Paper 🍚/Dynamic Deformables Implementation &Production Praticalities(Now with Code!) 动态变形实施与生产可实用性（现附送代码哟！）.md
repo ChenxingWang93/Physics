@@ -20,3 +20,18 @@
 #### **11**.Implicit Integrati Methods ***隐式 积分 方法***
   - 
 #### **12**.Constrained Backward- Euler ***带约束的 向后 🔄欧拉***
+  -
+#### **13**.Collision Processing ***碰撞💥处理***
+  -
+#### **14**.Collision energies ***碰撞💥能量***
+  -
+#### A
+#### B
+#### C
+#### D
+#### E
+#### F
+#### G
+#### H 
+#### I
+#### J

@@ -8,9 +8,19 @@
     - Deformation Gradient: Really Important
     - Removing the Rotation(Not So Easy)
   - Force Computation: How Much Should I Push Back?
-    - 
+    - Computing
+    - Don't Do It This Way
+    - What Now?
 #### **3**.Computing Forces the Tensor Way ***以 张量形式 计算 力***
-  - 
+  - Thinking About 3rd-Order Tensors
+  - Multiplication With 3rd-Order Tensors
+  - Multiplication With Flattened Tensors
+  - Computing Forces(Finally)
+    - Computing the Tensor
+  - Dirichchlet Forces: So Easy
+  - Other Forces: Still Pretty Easy
+    - St. Venant Kirchhoff, Stretching Only
+    -  
 #### **4**.Computing Forces Gradients the Tensor Way ***以 张量形式 计算 力梯度***
   - 
 #### **5**.A Better Way For Isotropic Solids ***各向同性 固体 的更优形式***

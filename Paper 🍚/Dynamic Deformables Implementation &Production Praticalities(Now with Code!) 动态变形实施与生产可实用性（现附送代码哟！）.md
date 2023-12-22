@@ -41,21 +41,23 @@
   - A Better Set of Invariants? ***不变量 集***
     - Invariants as Rotation Removers ***不变量作为 旋转移除***
     - Invariants as Geometric Measurements ***不变量作为 几何度量***
-    - A New Set of Invariants
-    - Does ARAP Work Now?
-  - The Eigenmatrices of the Rotation Gradient
-    - What's an Eigenmatrix?
-    - Structures Lurk in the Decomposition of an Eigenmatrix
-    - What About the Eigenvalue?
-    - Building the Rotation Gradient(Finally)
-  - Building a Generic Hessian (Finally)
-      - Neo-Hookean, the Smith et al. (2019) Way
-      - ARAP, the Smith et al. (2019) Way
+    - A New Set of Invariants ***不变量 集***
+    - Does ARAP Work Now? ******
+  - The Eigenmatrices of the Rotation Gradient ***旋转梯度 的特征矩阵***
+    - What's an Eigenmatrix? ***什么是 特征矩阵***
+    - Structures Lurk in the Decomposition of an Eigenmatrix ***潜伏结构 特征矩阵 的 分解***
+    - What About the Eigenvalue? ***特征值***
+    - Building the Rotation Gradient(Finally) ***建立旋转 梯度***
+  - Building a Generic Hessian (Finally) ***建立 通用黑森***
+      - Neo-Hookean, the Smith et al. (2019) Way ***新虎克 史密斯 et al***
+      - ARAP, the Smith et al. (2019) Way ******
       - Symmetric Dirichlet, the Smith et al.(2019) Way
+
+  
 #### **6**.A Friendlier Neo-Hookean Energy ***一种更友好的 新虎克 能量***
-  - Cauchy-Green vs. Smith et al.(2019)
-    - maybe Mooney didn't know about the polar decomposition
-    - maybe Mooney didn't care about inversion
+  - Cauchy-Green vs. Smith et al.(2019) ******
+    - Maybe Mooney Didn't Know About the Polar Decomposition ******
+    - Maybe Mooney Didn't Care About Inversion
   - ARAP (And Others) Don't Do Great
     - A Brief Aside: The Lame Parameters
     - St.Venant Kirchhoff Doesn't Do Better
@@ -69,22 +71,40 @@
     - Stable Mooney-Rivlin
     - Stable Arruda-Boyce
     - Stable Fung Hardening 
+
+
 #### **7**.The Analytic Eigensystems of Isotropic Energies ***各向同性 分析特征系统***
   - 
+
+
 #### **8**.A Better Way for Anisotropic Solids ***各向异性 固体 的更优形式***
   - 
+
+
 #### **9**.Tips for Computing &Debugging Force Derivatives ***计算 &调试 力的导数***
   -
+
+
 #### **10**.Thin Shell Forces ***薄壳力***
   -
+
+
 #### **11**.Implicit Integrati Methods ***隐式 积分 方法***
   - 
+
+
 #### **12**.Constrained Backward- Euler ***带约束的 向后 🔄欧拉***
   -
+
+
 #### **13**.Collision Processing ***碰撞💥处理***
   -
+
+
 #### **14**.Collision energies ***碰撞💥能量***
   -
+
+
 #### A
 #### B
 #### C

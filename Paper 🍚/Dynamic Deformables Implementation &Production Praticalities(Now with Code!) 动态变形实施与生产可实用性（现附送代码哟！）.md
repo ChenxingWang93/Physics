@@ -17,16 +17,16 @@
   - Multiplication With Flattened Tensors
   - Computing Forces(Finally)
     - Computing the Tensor
-  - Dirichchlet Forces: So Easy
+  - Dirichlet Forces: So Easy
   - Other Forces: Still Pretty Easy
-    - St. Venant Kirchhoff, Stretching Only
-    - The Complete St.Venan Kirchhoff 
+    - St. Venant Kirchhoff, Stretching Only ***圣 维南 基尔霍夫，仅拉伸***
+    - The Complete St.Venan Kirchhoff ***完备的 圣 维南 基尔霍夫***
     - As-Rigid-As-Possible ***尽可能 严格的***
     - The Many Forms of Neo-Hookean ***新虎克 的多种形式***
 #### **4**.Computing Forces Gradients the Tensor Way ***以 张量形式 计算 力梯度***
   - 4th-order Tensors
   - Computing Force Gradients
-    - Kirchhoff Hessian: So Easy
+    - Dirichlet Hessian: So Easy
     - Neo-Hookean: Not So Easy
     - St. Venant-Kirchhoff: Things Get Worse
     - As-Rigid-As-Possible: Things Go Terribly Wrong

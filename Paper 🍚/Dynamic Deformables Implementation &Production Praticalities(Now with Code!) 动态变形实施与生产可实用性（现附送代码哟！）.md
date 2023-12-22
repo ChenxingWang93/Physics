@@ -20,8 +20,8 @@
   - Dirichchlet Forces: So Easy
   - Other Forces: Still Pretty Easy
     - St. Venant Kirchhoff, Stretching Only
-    - The Complete St.Venan Kirchhoff
-    - As-Rigid-As-Possible
+    - The Complete St.Venan Kirchhoff 
+    - As-Rigid-As-Possible ***尽可能 严格的***
     - The Many Forms of Neo-Hookean ***新虎克 的多种形式***
 #### **4**.Computing Forces Gradients the Tensor Way ***以 张量形式 计算 力梯度***
   - 

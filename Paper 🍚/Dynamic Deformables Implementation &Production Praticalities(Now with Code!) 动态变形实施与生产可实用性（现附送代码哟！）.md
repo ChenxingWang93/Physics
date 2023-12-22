@@ -7,14 +7,14 @@
     - Removing the Translation(Easy)
     - Deformation Gradient: Really Important
     - Removing the Rotation(Not So Easy)
-  - Force Computation: How Much Should I Push Back?
-    - Computing
+  - Force Computation: How Much Should I Push Back? ***力的计算 要用多大的力才能推回***
+    - Computing ***计算***
     - Don't Do It This Way
-    - What Now?
+    - What Now? 
 #### **3**.Computing Forces the Tensor Way ***以 张量形式 计算 力***
-  - Thinking About 3rd-Order Tensors
-  - Multiplication With 3rd-Order Tensors
-  - Multiplication With Flattened Tensors
+  - Thinking About 3rd-Order Tensors 
+  - Multiplication With 3rd-Order Tensors ***3阶 张量***
+  - Multiplication With Flattened Tensors ***展平 张量***
   - Computing Forces(Finally) ***计算 力***
     - Computing the Tensor ***计算 张量***
   - Dirichlet Forces: So Easy ***狄利克雷 力***
@@ -31,6 +31,7 @@
     - St. Venant-Kirchhoff: Things Get Worse
     - As-Rigid-As-Possible: Things Go Terribly Wrong
 #### **5**.A Better Way For Isotropic Solids ***各向同性 固体 的更优形式***
+  - The Situation So Far
   - 
 #### **6**.A Friendlier Neo-Hookean Energy ***一种更友好的 新虎克 能量***
   - 

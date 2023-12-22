@@ -1,7 +1,7 @@
 ### TOC
 #### **2**.Deformation Fundamentals ***变形🫠的基础***
   - Do I Need to Read This Chapter? 
-  - What Kind of Squashing Are We Talking About?
+  - What Kind of Squashing Are We Talking About? ***我们在谈论什么样的 挤压***
   - How Squashed Am I? 
     - Measuring The Wrong Way ***以错误的方式 来衡量***
     - Removing the Translation(Easy) ***移除 移动Translation(Easy)***

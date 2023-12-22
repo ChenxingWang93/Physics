@@ -2,7 +2,7 @@
 #### **2**.Deformation Fundamentals ***变形🫠的基础***
   - Do I Need to Read This Chapter? 
   - What Kind of Squashing Are We Talking About?
-  - How Squashed Am I?
+  - How Squashed Am I? 
     - Measuring The Wrong Way ***以错误的方式 来衡量***
     - Removing the Translation(Easy) ***移除 移动Translation(Easy)***
     - Deformation Gradient: Really Important ***变形梯度：很重要***
@@ -32,7 +32,13 @@
     - As-Rigid-As-Possible: Things Go Terribly Wrong ***尽可能 严格的***
 #### **5**.A Better Way For Isotropic Solids ***各向同性 固体 的更优形式***
   - The Situation So Far
-  - The
+  - The Cauchy- Green Invariants(a.k.a The Wrong Way) ***柯西 - 格林不变量***
+    - The Gradients & Hessians of the Invariants ***梯度 &不变量的 黑森***
+    - Getting Any Hessian, the Cauchy-Green Way
+    - St.Venant Kirchhoff Stretching, the Cauchy-Green Way
+    - Neo-Hookean, the Cauchy-Green Way
+    - As-Rigid-As-Possible: Things Go Terribly Wrong(Again)
+  - ***不变量 集***
 #### **6**.A Friendlier Neo-Hookean Energy ***一种更友好的 新虎克 能量***
   - 
 #### **7**.The Analytic Eigensystems of Isotropic Energies ***各向同性 分析特征系统***

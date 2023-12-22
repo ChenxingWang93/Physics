@@ -43,9 +43,17 @@
     - Invariants as Geometric Measurements ***不变量作为 几何度量***
     - A New Set of Invariants
     - Does ARAP Work Now?
-  - 
+  - The Eigenmatrices of the Rotation Gradient
+    - What's an Eigenmatrix?
+    - Structures Lurk in the Decomposition of an Eigenmatrix
+    - What About the Eigenvalue?
+  - Building the Rotation Gradient(Finally)
+      - Neo-Hookean, the Smith et al. (2019) Way
+      - ARAP, the Smith et al. (2019) Way
+      - Symmetric Dirichlet, the Smith et al.(2019) Way
 #### **6**.A Friendlier Neo-Hookean Energy ***一种更友好的 新虎克 能量***
-  - 
+  - Cauchy-green vs. smith et al.(2019)
+    - 
 #### **7**.The Analytic Eigensystems of Isotropic Energies ***各向同性 分析特征系统***
   - 
 #### **8**.A Better Way for Anisotropic Solids ***各向异性 固体 的更优形式***

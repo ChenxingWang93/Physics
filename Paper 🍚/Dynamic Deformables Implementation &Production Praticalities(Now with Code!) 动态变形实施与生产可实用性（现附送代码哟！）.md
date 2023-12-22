@@ -38,7 +38,12 @@
     - St.Venant Kirchhoff Stretching, the Cauchy-Green Way
     - Neo-Hookean, the Cauchy-Green Way
     - As-Rigid-As-Possible: Things Go Terribly Wrong(Again)
-  - ***不变量 集***
+  - A Better Set of Invariants? ***不变量 集***
+    - Invariants as Rotation Removers ***不变量作为 旋转移除***
+    - Invariants as Geometric Measurements ***不变量作为 几何度量***
+    - A New Set of Invariants
+    - Does ARAP Work Now?
+  - 
 #### **6**.A Friendlier Neo-Hookean Energy ***一种更友好的 新虎克 能量***
   - 
 #### **7**.The Analytic Eigensystems of Isotropic Energies ***各向同性 分析特征系统***

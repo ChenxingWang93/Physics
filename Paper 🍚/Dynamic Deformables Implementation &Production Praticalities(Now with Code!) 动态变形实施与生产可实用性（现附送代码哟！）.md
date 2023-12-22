@@ -47,13 +47,28 @@
     - What's an Eigenmatrix?
     - Structures Lurk in the Decomposition of an Eigenmatrix
     - What About the Eigenvalue?
-  - Building the Rotation Gradient(Finally)
+    - Building the Rotation Gradient(Finally)
+  - Building a Generic Hessian (Finally)
       - Neo-Hookean, the Smith et al. (2019) Way
       - ARAP, the Smith et al. (2019) Way
       - Symmetric Dirichlet, the Smith et al.(2019) Way
 #### **6**.A Friendlier Neo-Hookean Energy ***一种更友好的 新虎克 能量***
-  - Cauchy-green vs. smith et al.(2019)
-    - 
+  - Cauchy-Green vs. Smith et al.(2019)
+    - maybe Mooney didn't know about the polar decomposition
+    - maybe Mooney didn't care about inversion
+  - ARAP (And Others) Don't Do Great
+    - A Brief Aside: The Lame Parameters
+    - St.Venant Kirchhoff Doesn't Do Better
+    - Co- Rotational Doesn't Do Better
+    - Neo-Hookean Is Okey Unless It Burns The House Down
+  - A Better Neo-Hookean Energy?
+    - So Many Neo-Hookeans
+    - Let's Mix-And-Match Our Own
+    - A Stable Neo-Hookean Energy 
+  - A Bunch of Other Stable Energies
+    - Stable Mooney-Rivlin
+    - Stable Arruda-Boyce
+    - Stable Fung Hardening 
 #### **7**.The Analytic Eigensystems of Isotropic Energies ***各向同性 分析特征系统***
   - 
 #### **8**.A Better Way for Anisotropic Solids ***各向异性 固体 的更优形式***

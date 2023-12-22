@@ -42,7 +42,7 @@
     - Invariants as Rotation Removers ***不变量作为 旋转移除***
     - Invariants as Geometric Measurements ***不变量作为 几何度量***
     - A New Set of Invariants ***不变量 集***
-    - Does ARAP Work Now? ******
+    - Does ARAP Work Now? ***尽可能 严格***
   - The Eigenmatrices of the Rotation Gradient ***旋转梯度 的特征矩阵***
     - What's an Eigenmatrix? ***什么是 特征矩阵***
     - Structures Lurk in the Decomposition of an Eigenmatrix ***潜伏结构 特征矩阵 的 分解***
@@ -50,20 +50,20 @@
     - Building the Rotation Gradient(Finally) ***建立旋转 梯度***
   - Building a Generic Hessian (Finally) ***建立 通用黑森***
       - Neo-Hookean, the Smith et al. (2019) Way ***新虎克 史密斯 et al***
-      - ARAP, the Smith et al. (2019) Way ******
+      - ARAP, the Smith et al. (2019) Way ***尽可能 严格，史密斯 et al***
       - Symmetric Dirichlet, the Smith et al.(2019) Way
 
   
 #### **6**.A Friendlier Neo-Hookean Energy ***一种更友好的 新虎克 能量***
-  - Cauchy-Green vs. Smith et al.(2019) ******
-    - Maybe Mooney Didn't Know About the Polar Decomposition ******
-    - Maybe Mooney Didn't Care About Inversion
-  - ARAP (And Others) Don't Do Great
-    - A Brief Aside: The Lame Parameters
-    - St.Venant Kirchhoff Doesn't Do Better
-    - Co- Rotational Doesn't Do Better
-    - Neo-Hookean Is Okey Unless It Burns The House Down
-  - A Better Neo-Hookean Energy?
+  - Cauchy-Green vs. Smith et al.(2019) ***柯西-格林 vs 史密斯 et al***
+    - Maybe Mooney Didn't Know About the Polar Decomposition ***穆尼 并不了解极坐标 分解***
+    - Maybe Mooney Didn't Care About Inversion ***穆尼 并不在意 逆转***
+  - ARAP (And Others) Don't Do Great ***不要完美***
+    - A Brief Aside: The Lame Parameters ***旁白：蹩脚的参数***
+    - St.Venant Kirchhoff Doesn't Do Better ***圣 维南 基尔霍夫***
+    - Co- Rotational Doesn't Do Better ***同-旋转 没有更好***
+    - Neo-Hookean Is Okey Unless It Burns The House Down ***新虎克 是ok的***
+  - A Better Neo-Hookean Energy? ***新 虎克 能量***
     - So Many Neo-Hookeans
     - Let's Mix-And-Match Our Own
     - A Stable Neo-Hookean Energy 

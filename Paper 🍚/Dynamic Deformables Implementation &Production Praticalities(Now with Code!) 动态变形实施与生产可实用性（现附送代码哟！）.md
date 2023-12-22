@@ -15,10 +15,10 @@
   - Thinking About 3rd-Order Tensors
   - Multiplication With 3rd-Order Tensors
   - Multiplication With Flattened Tensors
-  - Computing Forces(Finally)
-    - Computing the Tensor
-  - Dirichlet Forces: So Easy
-  - Other Forces: Still Pretty Easy
+  - Computing Forces(Finally) ***计算 力***
+    - Computing the Tensor ***计算 张量***
+  - Dirichlet Forces: So Easy ***狄利克雷 力***
+  - Other Forces: Still Pretty Easy 
     - St. Venant Kirchhoff, Stretching Only ***圣 维南 基尔霍夫，仅拉伸***
     - The Complete St.Venan Kirchhoff ***完备的 圣 维南 基尔霍夫***
     - As-Rigid-As-Possible ***尽可能 严格的***

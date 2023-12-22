@@ -24,7 +24,12 @@
     - As-Rigid-As-Possible ***尽可能 严格的***
     - The Many Forms of Neo-Hookean ***新虎克 的多种形式***
 #### **4**.Computing Forces Gradients the Tensor Way ***以 张量形式 计算 力梯度***
-  - 
+  - 4th-order Tensors
+  - Computing Force Gradients
+    - Kirchhoff Hessian: So Easy
+    - Neo-Hookean: Not So Easy
+    - St. Venant-Kirchhoff: Things Get Worse
+    - As-Rigid-As-Possible: Things Go Terribly Wrong
 #### **5**.A Better Way For Isotropic Solids ***各向同性 固体 的更优形式***
   - 
 #### **6**.A Friendlier Neo-Hookean Energy ***一种更友好的 新虎克 能量***

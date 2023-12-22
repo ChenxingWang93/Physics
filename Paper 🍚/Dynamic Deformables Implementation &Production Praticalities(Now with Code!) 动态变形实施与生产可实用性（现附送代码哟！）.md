@@ -1,38 +1,38 @@
 ### TOC
 #### **2**.Deformation Fundamentals ***变形🫠的基础***
-  - Do I Need to Read This Chapter?
+  - Do I Need to Read This Chapter? 
   - What Kind of Squashing Are We Talking About?
   - How Squashed Am I?
-    - Measuring The Wrong Way
-    - Removing the Translation(Easy)
-    - Deformation Gradient: Really Important
-    - Removing the Rotation(Not So Easy)
+    - Measuring The Wrong Way ***以错误的方式 来衡量***
+    - Removing the Translation(Easy) ***移除 移动Translation(Easy)***
+    - Deformation Gradient: Really Important ***变形梯度：很重要***
+    - Removing the Rotation(Not So Easy) ***移除 旋转Rotation(Not So Easy)***
   - Force Computation: How Much Should I Push Back? ***力的计算 要用多大的力才能推回***
     - Computing ***计算***
-    - Don't Do It This Way
+    - Don't Do It This Way ***不要这样做***
     - What Now? 
 #### **3**.Computing Forces the Tensor Way ***以 张量形式 计算 力***
-  - Thinking About 3rd-Order Tensors 
+  - Thinking About 3rd-Order Tensors ***3阶 张量***
   - Multiplication With 3rd-Order Tensors ***3阶 张量***
   - Multiplication With Flattened Tensors ***展平 张量***
   - Computing Forces(Finally) ***计算 力***
     - Computing the Tensor ***计算 张量***
   - Dirichlet Forces: So Easy ***狄利克雷 力***
-  - Other Forces: Still Pretty Easy 
+  - Other Forces: Still Pretty Easy ***其他力 Still Pretty Easy⭐⭐***
     - St. Venant Kirchhoff, Stretching Only ***圣 维南 基尔霍夫，仅拉伸***
     - The Complete St.Venan Kirchhoff ***完备的 圣 维南 基尔霍夫***
     - As-Rigid-As-Possible ***尽可能 严格的***
     - The Many Forms of Neo-Hookean ***新虎克 的多种形式***
 #### **4**.Computing Forces Gradients the Tensor Way ***以 张量形式 计算 力梯度***
-  - 4th-order Tensors
-  - Computing Force Gradients
-    - Dirichlet Hessian: So Easy
-    - Neo-Hookean: Not So Easy
-    - St. Venant-Kirchhoff: Things Get Worse
-    - As-Rigid-As-Possible: Things Go Terribly Wrong
+  - 4th-order Tensors ***4阶 张量***
+  - Computing Force Gradients ***计算 力的 梯度***
+    - Dirichlet Hessian: So Easy ***狄利克雷 黑森 So easy⭐***
+    - Neo-Hookean: Not So Easy ***新虎克：Not So Easy⭐⭐⭐***
+    - St. Venant-Kirchhoff: Things Get Worse ***圣 维南 基尔霍夫***
+    - As-Rigid-As-Possible: Things Go Terribly Wrong ***尽可能 严格的***
 #### **5**.A Better Way For Isotropic Solids ***各向同性 固体 的更优形式***
   - The Situation So Far
-  - 
+  - The
 #### **6**.A Friendlier Neo-Hookean Energy ***一种更友好的 新虎克 能量***
   - 
 #### **7**.The Analytic Eigensystems of Isotropic Energies ***各向同性 分析特征系统***

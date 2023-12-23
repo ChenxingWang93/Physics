@@ -34,10 +34,10 @@
   - The Situation So Far
   - The Cauchy- Green Invariants(a.k.a The Wrong Way) ***柯西 - 格林不变量***
     - The Gradients & Hessians of the Invariants ***梯度 &不变量的 黑森***
-    - Getting Any Hessian, the Cauchy-Green Way
-    - St.Venant Kirchhoff Stretching, the Cauchy-Green Way
-    - Neo-Hookean, the Cauchy-Green Way
-    - As-Rigid-As-Possible: Things Go Terribly Wrong(Again)
+    - Getting Any Hessian, the Cauchy-Green Way ***黑森，柯西格林 方法***
+    - St.Venant Kirchhoff Stretching, the Cauchy-Green Way ***圣 维南 基尔霍夫拉伸，柯西-格林 方法***
+    - Neo-Hookean, the Cauchy-Green Way ***新虎克，柯西-格林 方法***
+    - As-Rigid-As-Possible: Things Go Terribly Wrong(Again) ***尽可能严格：事情变得很糟糕***
   - A Better Set of Invariants? ***不变量 集***
     - Invariants as Rotation Removers ***不变量作为 旋转移除***
     - Invariants as Geometric Measurements ***不变量作为 几何度量***

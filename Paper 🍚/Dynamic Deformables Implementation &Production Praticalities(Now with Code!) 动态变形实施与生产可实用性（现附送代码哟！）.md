@@ -63,16 +63,15 @@
     - St.Venant Kirchhoff Doesn't Do Better ***圣 维南 基尔霍夫***
     - Co- Rotational Doesn't Do Better ***同-旋转 没有更好***
     - Neo-Hookean Is Okey Unless It Burns The House Down ***新虎克 是ok的***
-  - A Better Neo-Hookean Energy? ***新 虎克 能量***
-    - So Many Neo-Hookeans
-    - Let's Mix-And-Match Our Own
+  - A Better Neo-Hookean Energy? ***一种 更好的 新 虎克 能量？***
+    - So Many Neo-Hookeans ***太多的 新虎克定律***
+    - Let's Mix-And-Match Our Own *** ***
     - A Stable Neo-Hookean Energy 
   - A Bunch of Other Stable Energies
     - Stable Mooney-Rivlin
     - Stable Arruda-Boyce
-    - Stable Fung Hardening 
-
-
+    - Stable Fung Hardening
+  -  
 #### **7**.The Analytic Eigensystems of Isotropic Energies ***各向同性 分析特征系统***
   - 
 

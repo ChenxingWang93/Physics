@@ -71,9 +71,12 @@
     - Stable Mooney-Rivlin
     - Stable Arruda-Boyce
     - Stable Fung Hardening
-  -  
 #### **7**.The Analytic Eigensystems of Isotropic Energies ***各向同性 分析特征系统***
-  - 
+  - keeping everything semi- positive definite
+  - can arap go indefinite
+  - the eigen decompositions of arbitrary energies
+    - 
+  - the stable neo-hookean eigensystem
 
 
 #### **8**.A Better Way for Anisotropic Solids ***各向异性 固体 的更优形式***

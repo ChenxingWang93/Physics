@@ -75,7 +75,6 @@
   - keeping everything semi- positive definite
   - can arap go indefinite
   - the eigen decompositions of arbitrary energies
-    - 
   - the stable neo-hookean eigensystem
 
 

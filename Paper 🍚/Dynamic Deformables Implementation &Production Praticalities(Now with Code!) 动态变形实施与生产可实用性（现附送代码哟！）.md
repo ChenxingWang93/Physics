@@ -72,15 +72,15 @@
     - Stable Arruda-Boyce
     - Stable Fung Hardening
 #### **7**.The Analytic Eigensystems of Isotropic Energies ***各向同性 分析特征系统***
-  - keeping everything semi- positive definite
-  - can ARAP go indefinite
-  - the eigen decompositions of arbitrary energies
-    - the general eigensystem of
-    - all isotropic energies have the exact same eigenvectors
-    - cranking out analytic eigenvalues
-    - if you‘re lucky things get simpler 
-  - the stable neo-hookean eigensystem
-    - when does it go indefinite?
+  - Keeping Everything Semi- Positive Definite
+  - Can ARAP Go Indefinite
+  - The Eigendecompositions of Arbitrary Energies
+    - The General Eigensystem of
+    - All Isotropic Energies Have the Exact Same Eigenvectors
+    - Cranking Out Analytic Eigenvalues
+    - If You‘re Lucky, Things Get Simpler 
+  - The Stable Neo-Hookean Eigensystem
+    - When Does It Go Indefinite?
 
 #### **8**.A Better Way for Anisotropic Solids ***各向异性 固体 的更优形式***
   - what‘s anisotropy？

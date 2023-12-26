@@ -73,14 +73,29 @@
     - Stable Fung Hardening
 #### **7**.The Analytic Eigensystems of Isotropic Energies ***各向同性 分析特征系统***
   - keeping everything semi- positive definite
-  - can arap go indefinite
+  - can ARAP go indefinite
   - the eigen decompositions of arbitrary energies
+    - the general eigensystem of
+    - all isotropic energies have the exact same eigenvectors
+    - cranking out analytic eigenvalues
+    - if you‘re lucky things get simpler 
   - the stable neo-hookean eigensystem
-
+    - when does it go indefinite?
 
 #### **8**.A Better Way for Anisotropic Solids ***各向异性 固体 的更优形式***
-  - 
+  - what‘s anisotropy？
+  - the (wrong) Cauchy-green invariants, again
+    - the  and  invariants
+    - gradients and hessians, again
+    - the eigensystem of
+    - the eigensystem of
+    - the eigensystems of arbitrary energies
+    - matlab/octave implementation
+  - better invariants, again
+    -  
+  - an inversion-aware anisotropic energy
 
+  - 
 
 #### **9**.Tips for Computing &Debugging Force Derivatives ***计算 &调试 力的导数***
   -

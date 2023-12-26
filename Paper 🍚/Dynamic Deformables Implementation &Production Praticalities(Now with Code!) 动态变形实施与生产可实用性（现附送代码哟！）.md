@@ -92,10 +92,13 @@
     - the eigensystems of arbitrary energies
     - matlab/octave implementation
   - better invariants, again
-    -  
+    - an inversion-aware invariant
+    - the gradient of
+    - the sign of
   - an inversion-aware anisotropic energy
-
-  - 
+    - previous models, and their issues
+    - an anisotropic arap model
+    - what other models are out there?
 
 #### **9**.Tips for Computing &Debugging Force Derivatives ***计算 &调试 力的导数***
   -

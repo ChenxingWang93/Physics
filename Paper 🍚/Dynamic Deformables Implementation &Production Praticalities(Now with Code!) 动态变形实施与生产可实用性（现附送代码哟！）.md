@@ -83,42 +83,42 @@
     - When Does It Go Indefinite?
 
 #### **8**.A Better Way for Anisotropic Solids ***各向异性 固体 的更优形式***
-  - what‘s anisotropy？
-  - the (wrong) Cauchy-green invariants, again
-    - the  and  invariants
-    - gradients and hessians, again
-    - the eigensystem of
-    - the eigensystem of
-    - the eigensystems of arbitrary energies
-    - matlab/octave implementation
-  - better invariants, again
-    - an inversion-aware invariant
-    - the gradient of
-    - the sign of
-  - an inversion-aware anisotropic energy
-    - previous models, and their issues
-    - an anisotropic arap model
-    - what other models are out there?
+  - What‘s Anisotropy？
+  - The(Wrong) Cauchy-Green Invariants, Again
+    - The  and  Invariants
+    - Gradients and Hessians, Again
+    - The Eigensystem of
+    - The Eigensystem of
+    - The Eigensystems of Arbitrary Energies
+    - Matlab/Octave Implementation
+  - Better Invariants, Again
+    - An Inversion-Aware Invariant
+    - The Gradient of
+    - The Sign of
+  - An Inversion-Aware Anisotropic Energy
+    - Previous Models, and Their Issues
+    - An Anisotropic ARAP Model
+    - What Other Models Are Out There?
 
 #### **9**.Tips for Computing &Debugging Force Derivatives ***计算 &调试 力的导数***
-  - a warning to non-cabal members
+  - A Warning To Non-Cabal Members
 
 
 #### **10**.Thin Shell Forces ***薄壳力***
-  - handy derivatives of a few vector operators
-    - jacobian of a unit vector
-    - the derivative of the dot product of two vectors
-    - jacobian of the cross product of two vectors
-    - energy functions, forces and their jacobians  
-  - stretch 拉
-    - stretch damping
-  - shear 剪
-    - shear damping
-  - dihedral bend 弯
-    - derivatives of  and
-    - approximating the force jacobian
-    - bend damping
-    - implementation details 
+  - Handy derivatives of a few vector operators
+    - Jacobian of a unit vector
+    - The derivative of the dot product of two vectors
+    - Jacobian of the cross product of two vectors
+    - Energy Functions, Forces and their Jacobians  
+  - Stretch 拉
+    - Stretch Damping 拉伸阻尼
+  - Shear 剪
+    - Shear Damping 剪切阻尼
+  - Dihedral Bend 弯
+    - Derivatives of  and
+    - Approximating the force Jacobian
+    - Bend Damping
+    - Implementation Details 
 
 
 #### **11**.Implicit Integrati Methods ***隐式 积分 方法***
@@ -126,7 +126,7 @@
 
 
 #### **12**.Constrained Backward- Euler ***带约束的 向后 🔄欧拉***
-  -
+  -  
 
 
 #### **13**.Collision Processing ***碰撞💥处理***

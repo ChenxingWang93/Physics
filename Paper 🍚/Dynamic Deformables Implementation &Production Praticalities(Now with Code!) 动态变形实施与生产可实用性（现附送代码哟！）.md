@@ -101,11 +101,24 @@
     - what other models are out there?
 
 #### **9**.Tips for Computing &Debugging Force Derivatives ***计算 &调试 力的导数***
-  -
+  - a warning to non-cabal members
 
 
 #### **10**.Thin Shell Forces ***薄壳力***
-  -
+  - handy derivatives of a few vector operators
+    - jacobian of a unit vector
+    - the derivative of the dot product of two vectors
+    - jacobian of the cross product of two vectors
+    - energy functions, forces and their jacobians  
+  - stretch 拉
+    - stretch damping
+  - shear 剪
+    - shear damping
+  - dihedral bend 弯
+    - derivatives of  and
+    - approximating the force jacobian
+    - bend damping
+    - implementation details 
 
 
 #### **11**.Implicit Integrati Methods ***隐式 积分 方法***

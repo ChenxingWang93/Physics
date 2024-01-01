@@ -66,8 +66,8 @@
   - A Better Neo-Hookean Energy? ***一种 更好的 新 虎克 能量？***
     - So Many Neo-Hookeans ***太多的 新虎克定律***
     - Let's Mix-And-Match Our Own *** ***
-    - A Stable Neo-Hookean Energy 
-  - A Bunch of Other Stable Energies
+    - A Stable Neo-Hookean Energy ***一种稳定的 新胡克定律***
+  - A Bunch of Other Stable Energies ***一堆其他 稳定的能量***
     - Stable Mooney-Rivlin
     - Stable Arruda-Boyce
     - Stable Fung Hardening

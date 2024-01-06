@@ -116,17 +116,21 @@
     - Shear Damping 剪切阻尼
   - Dihedral Bend 弯
     - Derivatives of  and
-    - Approximating the force Jacobian
-    - Bend Damping
-    - Implementation Details 
+    - Approximating the force Jacobian 力雅各比
+    - Bend Damping 弯阻尼
+    - Implementation Details 实施细节
 
 
 #### **11**.Implicit Integrati Methods ***隐式 积分 方法***
-  - 
+  - Backward Differentiation Methods in
+  - Time Integration in HOBAK
+    - Velocity- Based BDF-1
+    - Position- Based BDF-1
+    - Newmark and Newton-Raphson
 
 
 #### **12**.Constrained Backward- Euler ***带约束的 向后 🔄欧拉***
-  -  
+  - 
 
 
 #### **13**.Collision Processing ***碰撞💥处理***

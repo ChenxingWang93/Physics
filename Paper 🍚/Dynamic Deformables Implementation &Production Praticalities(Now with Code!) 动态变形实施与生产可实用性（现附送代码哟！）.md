@@ -147,7 +147,7 @@
   - Filtered Constraints for One-Way Response
   - Proximity Between Dynamic Meshes
   - Penalty Forces for Two-Way Response
-  - Faux Friction Effects
+  - Faux Friction Effects 
   - Debugging Proximity Contact Detection
   - Continuous Collision Detection
   - CCD Response of a Single Collision
@@ -158,7 +158,32 @@
 
 
 #### **14**.Collision energies ***碰撞💥能量***
-  -
+  - What Energies?
+  - A Vertex-Face Energy
+    - A Position-Based Energy
+    - What's Position-Based Energy
+    - What's the Energy Doing?
+    - The Collision Force
+    - The Collision Hessian
+  - Another(Better?Identical?)Vertex-Face Energy
+    - Another Position-Based Energy
+    - The Collision Force
+    - The Collision Hessian
+  - Non-Zero Rest-Length Vertex Energies
+  - The Actual Vertex-Face Energy Used
+    - Just to Drive You Crazy
+    - There's A Reversal Problem
+  - An Edge- Edge Energy 
+   - The Collision Energy
+   - The Collision Gradient
+   - The Collision Hessian
+   - You Have to Reverse It Sometimes
+  - The Actual Edge- Edge Energy Used in Fizt
+    - A Fly in the Ointment
+    - The Fizt Energy
+    - The Negated Version
+    - This Part Isn't in Fizt
+  - What About Eigenvalue Clamping?
 
 
 #### A

@@ -85,15 +85,15 @@
     - When Does It Go Indefinite? ***什么时候是 不定的？***
 
 #### **8**.A Better Way for Anisotropic Solids ***各向异性 固体 的更优形式***
-  - What‘s Anisotropy？
-  - The(Wrong) Cauchy-Green Invariants, Again
-    - The  and  Invariants
-    - Gradients and Hessians, Again
-    - The Eigensystem of
-    - The Eigensystem of
-    - The Eigensystems of Arbitrary Energies
-    - Matlab/Octave Implementation
-  - Better Invariants, Again
+  - What‘s Anisotropy？***什么是 各向异性***
+  - The(Wrong) Cauchy-Green Invariants, Again ***（错误❌）柯西-格林 不变量***
+    - The  and  Invariants ***不变量***
+    - Gradients and Hessians, Again ***梯度 &hessians***
+    - The Eigensystem of ***特征系统***
+    - The Eigensystem of ***特征系统***
+    - The Eigensystems of Arbitrary Energies ***随机能量的 特征系统***
+    - Matlab/Octave Implementation ***matlab/octave 实施***
+  - Better Invariants, Again 
     - An Inversion-Aware Invariant
     - The Gradient of
     - The Sign of
@@ -167,25 +167,25 @@
     - What's the Energy Doing? ***能量都在做什么呢？***
     - The Collision Force ***碰撞💥 力***
     - The Collision Hessian ***碰撞💥 hessian***
-  - Another(Better?Identical?)Vertex-Face Energy ******
-    - Another Position-Based Energy
-    - The Collision Force
-    - The Collision Hessian
-  - Non-Zero Rest-Length Vertex Energies
-  - The Actual Vertex-Face Energy Used
+  - Another(Better?Identical?)Vertex-Face Energy ***（更优？）顶点-面 能量***
+    - Another Position-Based Energy ***位置为基础的能量***
+    - The Collision Force ***碰撞💥力***
+    - The Collision Hessian ***碰撞💥 hessian***
+  - Non-Zero Rest-Length Vertex Energies ***非0⃣️静止长度 顶点能量***
+  - The Actual Vertex-Face Energy Used ***实际 顶点-面 能量***
     - Just to Drive You Crazy
-    - There's A Reversal Problem
-  - An Edge- Edge Energy 
-   - The Collision Energy
-   - The Collision Gradient
-   - The Collision Hessian
-   - You Have to Reverse It Sometimes
-  - The Actual Edge- Edge Energy Used in Fizt
-    - A Fly in the Ointment
-    - The Fizt Energy
-    - The Negated Version
-    - This Part Isn't in Fizt
-  - What About Eigenvalue Clamping?
+    - There's A Reversal Problem ***逆向🔄 问题***
+  - An Edge- Edge Energy ***边-边 能量***
+   - The Collision Energy ***碰撞💥 能量***
+   - The Collision Gradient ***碰撞💥 梯度***
+   - The Collision Hessian ***碰撞💥 黑森***
+   - You Have to Reverse It Sometimes ***撤销↩️***
+  - The Actual Edge- Edge Energy Used in Fizt ***实际 边-边能量***
+    - A Fly in the Ointment ***软膏上的一只苍蝇🪰***
+    - The Fizt Energy ******
+    - The Negated Version ***否定版本***
+    - This Part Isn't in Fizt ******
+  - What About Eigenvalue Clamping? ***特征值 阻尼***
 
 
 #### A

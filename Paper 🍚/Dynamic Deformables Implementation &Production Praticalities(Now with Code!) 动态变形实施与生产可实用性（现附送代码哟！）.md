@@ -145,18 +145,18 @@
 
 
 #### **13**.Collision Processing ***碰撞💥处理***
-  - Proximity Queries
-  - Filtered Constraints for One-Way Response
-  - Proximity Between Dynamic Meshes
-  - Penalty Forces for Two-Way Response
-  - Faux Friction Effects 
-  - Debugging Proximity Contact Detection
-  - Continuous Collision Detection
-  - CCD Response of a Single Collision
-  - Resolving CCD Collisions in Chronological Order
-  - Global Intersection Analysis
-  - Using GIA with Proximity and CCD
-  - Things Not Covered
+  - Proximity Queries ***临近 查询📖***
+  - Filtered Constraints for One-Way Response ***单向响应 过滤约束***
+  - Proximity Between Dynamic Meshes ***动态网格 间临近查询📖***
+  - Penalty Forces for Two-Way Response ***惩罚力 双向响应***
+  - Faux Friction Effects ***假摩擦 效应***
+  - Debugging Proximity Contact Detection ***临近 接触检测***
+  - Continuous Collision Detection ***连续的碰撞💥检测***
+  - CCD Response of a Single Collision ***单一碰撞💥***
+  - Resolving CCD Collisions in Chronological Order ***时间⌚️序列上 求解CCD碰撞💥***
+  - Global Intersection Analysis ***全局 相交🍌分析***
+  - Using GIA with Proximity and CCD ***在临近和CCD 使用GIA***
+  - Things Not Covered ***还有一些没覆盖的***
 
 
 #### **14**.Collision energies ***碰撞💥能量***

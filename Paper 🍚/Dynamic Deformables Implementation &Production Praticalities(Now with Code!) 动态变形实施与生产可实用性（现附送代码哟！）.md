@@ -51,7 +51,7 @@
   - Building a Generic Hessian (Finally) ***建立 通用黑森***
       - Neo-Hookean, the Smith et al. (2019) Way ***新虎克 史密斯 et al***
       - ARAP, the Smith et al. (2019) Way ***尽可能 严格，史密斯 et al***
-      - Symmetric Dirichlet, the Smith et al.(2019) Way
+      - Symmetric Dirichlet, the Smith et al.(2019) Way ***对称 狄利克雷***
 
   
 #### **6**.A Friendlier Neo-Hookean Energy ***一种更友好的 新虎克 能量***
@@ -68,19 +68,21 @@
     - Let's Mix-And-Match Our Own *** ***
     - A Stable Neo-Hookean Energy ***一种稳定的 新胡克定律***
   - A Bunch of Other Stable Energies ***一堆其他 稳定的能量***
-    - Stable Mooney-Rivlin
-    - Stable Arruda-Boyce
-    - Stable Fung Hardening
+    - Stable Mooney-Rivlin ***稳定的 Mooney-Rivlin***
+    - Stable Arruda-Boyce ***稳定的 Arruda-Boyce***
+    - Stable Fung Hardening ***稳定的 Fung Hardening***
+   
+
 #### **7**.The Analytic Eigensystems of Isotropic Energies ***各向同性 分析特征系统***
-  - Keeping Everything Semi- Positive Definite
-  - Can ARAP Go Indefinite
-  - The Eigendecompositions of Arbitrary Energies
-    - The General Eigensystem of
-    - All Isotropic Energies Have the Exact Same Eigenvectors
-    - Cranking Out Analytic Eigenvalues
-    - If You‘re Lucky, Things Get Simpler 
-  - The Stable Neo-Hookean Eigensystem
-    - When Does It Go Indefinite?
+  - Keeping Everything Semi- Positive Definite ***半正定***
+  - Can ARAP Go Indefinite ***ARAP能否 不定***
+  - The Eigendecompositions of Arbitrary Energies ***任意能量的 特征值分解***
+    - The General Eigensystem of ***通用 本征系统***
+    - All Isotropic Energies Have the Exact Same Eigenvectors ***各向同性能量 的完全相同特征向量***
+    - Cranking Out Analytic Eigenvalues ***发动 分析特征值***
+    - If You‘re Lucky, Things Get Simpler ***如果你幸运，事情就会变得简单***
+  - The Stable Neo-Hookean Eigensystem ***稳定的 新虎克特征系统***
+    - When Does It Go Indefinite? ***什么时候是 不定的？***
 
 #### **8**.A Better Way for Anisotropic Solids ***各向异性 固体 的更优形式***
   - What‘s Anisotropy？
@@ -105,28 +107,28 @@
 
 
 #### **10**.Thin Shell Forces ***薄壳力***
-  - Handy derivatives of a few vector operators
-    - Jacobian of a unit vector
-    - The derivative of the dot product of two vectors
-    - Jacobian of the cross product of two vectors
-    - Energy Functions, Forces and their Jacobians  
-  - Stretch 拉
-    - Stretch Damping 拉伸阻尼
-  - Shear 剪
-    - Shear Damping 剪切阻尼
-  - Dihedral Bend 弯
+  - Handy derivatives of a few vector operators ***一些 向量 操作符的 手动导数***
+    - Jacobian of a unit vector ***单位向量 雅各比***
+    - The derivative of the dot product of two vectors ***两向量 点积 导数***
+    - Jacobian of the cross product of two vectors ***两向量 叉积 雅各比***
+    - Energy Functions, Forces, and their Jacobians ***能量函数，力，&其雅各比***
+  - Stretch ***拉***
+    - Stretch Damping ***拉伸阻尼***
+  - Shear ***剪***
+    - Shear Damping ***剪切阻尼***
+  - Dihedral Bend ***弯***
     - Derivatives of  and
-    - Approximating the force Jacobian 力雅各比
-    - Bend Damping 弯阻尼
-    - Implementation Details 实施细节
+    - Approximating the force Jacobian ***力 雅各比***
+    - Bend Damping ***弯阻尼***
+    - Implementation Details ***实施细节***
 
 
 #### **11**.Implicit Integrati Methods ***隐式 积分 方法***
   - Backward Differentiation Methods in
   - Time Integration in HOBAK
-    - Velocity- Based BDF-1
+    - Velocity- Based BDF-1 
     - Position- Based BDF-1
-    - Newmark and Newton-Raphson
+    - Newmark and Newton-Raphson 
 
 
 #### **12**.Constrained Backward- Euler ***带约束的 向后 🔄欧拉***
@@ -158,14 +160,14 @@
 
 
 #### **14**.Collision energies ***碰撞💥能量***
-  - What Energies?
-  - A Vertex-Face Energy
-    - A Position-Based Energy
-    - What's Position-Based Energy
-    - What's the Energy Doing?
-    - The Collision Force
-    - The Collision Hessian
-  - Another(Better?Identical?)Vertex-Face Energy
+  - What Energies? ***什么能量？***
+  - A Vertex-Face Energy ***一个 顶点面 能量***
+    - A Position-Based Energy ***一个位置为基础 能量***
+    - What's Position-Based Energy ***什么是位置为基础 能量***
+    - What's the Energy Doing? ***能量都在做什么呢？***
+    - The Collision Force ***碰撞💥 力***
+    - The Collision Hessian ***碰撞💥 hessian***
+  - Another(Better?Identical?)Vertex-Face Energy ******
     - Another Position-Based Energy
     - The Collision Force
     - The Collision Hessian

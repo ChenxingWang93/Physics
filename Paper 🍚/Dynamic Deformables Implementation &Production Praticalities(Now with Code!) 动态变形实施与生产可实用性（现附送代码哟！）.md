@@ -132,16 +132,16 @@
 
 
 #### **12**.Constrained Backward- Euler ***带约束的 向后 🔄欧拉***
-  - Constraint- Filtering in Baraff-Witkin Cloth
-    - Pre-Filtered Preconditioned Conjugate Gradient (PPCG)
-  - Performance Improvement Techniques
+  - Constraint- Filtering in Baraff-Witkin Cloth ***约束过滤器***
+    - Pre-Filtered Preconditioned Conjugate Gradient (PPCG) ***预处理 共轭 梯度***
+  - Performance Improvement Techniques ***表现力 提升 技术***
   - Reverse Cuthill-Mckee
   - System Assembly
-  - System Reduction and Boundary Conditions
-  - PPCG Solver Details
-  - Preconditioning
-  - A World on Determinism
-  - Writing Efficient OpenMP Code
+  - System Reduction and Boundary Conditions ***系统缩减 与 边界条件***
+  - PPCG Solver Details ***PPCG求解器 细节***
+  - Preconditioning ***先决条件***
+  - A World on Determinism ***决定论***
+  - Writing Efficient OpenMP Code ***决定论***
 
 
 #### **13**.Collision Processing ***碰撞💥处理***

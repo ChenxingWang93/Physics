@@ -92,15 +92,15 @@
     - The Eigensystem of ***特征系统***
     - The Eigensystem of ***特征系统***
     - The Eigensystems of Arbitrary Energies ***随机能量的 特征系统***
-    - Matlab/Octave Implementation ***matlab/octave 实施***
-  - Better Invariants, Again 
-    - An Inversion-Aware Invariant
-    - The Gradient of
-    - The Sign of
-  - An Inversion-Aware Anisotropic Energy
-    - Previous Models, and Their Issues
-    - An Anisotropic ARAP Model
-    - What Other Models Are Out There?
+    - Matlab/Octave Implementation ***Matlab/octave 实施***
+  - Better Invariants, Again ***更优 不变体***
+    - An Inversion-Aware Invariant ***反转-感知 不变量***
+    - The Gradient of ***梯度***
+    - The Sign of ***符号***
+  - An Inversion-Aware Anisotropic Energy ***反转-感知 各向异性 能量***
+    - Previous Models, and Their Issues ***之前使用的模型，与其存在的问题***
+    - An Anisotropic ARAP Model ***各向异性 ARAP模型***
+    - What Other Models Are Out There? ***还存在什么样的 模型？***
 
 #### **9**.Tips for Computing &Debugging Force Derivatives ***计算 &调试 力的导数***
   - A Warning To Non-Cabal Members
